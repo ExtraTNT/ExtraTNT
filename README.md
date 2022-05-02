@@ -5,6 +5,11 @@
 ## About me
 Developer from Switzerland, likes free software, likes DnD, likes nice LaTeX-Documents, does Fullstack stuff... is bad at designing stuff and does not know how to code without timetravel issues... -.- takes life to serious... and is a master at creating typos...  
 
+### Favorite Blue
+\#5294e2
+### Favorite Car
+Mazda RX 7 FD
+
 ### BIO
 #### Age
 To young for the time, when computing didn't suck, to old to be young (2002)  
@@ -12,8 +17,10 @@ To young for the time, when computing didn't suck, to old to be young (2002)
 Dwarf
 #### Beard
 ~ 1 ft
-#### Favorite Blue
-\#5294e2
+#### Skin Color
+never seen sun
+#### Hair
+classic metalhead
 
 ### Working at
 [SwissTXT](https://duckduckgo.com/?q=don't+click+suspicious+links)
@@ -157,6 +164,10 @@ Fruit juce with added water and sugar... like wtf, why?
 - Sport (Judo, Skiing, eSport)
 - Gaming
 
+## Contributed to
+
+ - Fluentscheduler (pullrequest open, because the project is dead)
+ - Linux (my fix was not working and the problem was my firmware, so i just annoyed everyone in the mailing list for nothing... but i now know, that i should not trust anyone, if he says, that there is the latest firmware on a device)
 
 
 ---
