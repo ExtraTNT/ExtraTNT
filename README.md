@@ -74,6 +74,7 @@ Fruit juce with added water and sugar... like wtf, why?
 - [x] Java
 - [ ] Python
 - [ ] C / C++ (a few lines)
+- [ ] gnu R (1 - 2 lines but it looks really nice...)
 - [x] German (if you don't hate me now, idk)
 - [ ] English
 
