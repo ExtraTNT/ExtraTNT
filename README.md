@@ -16,7 +16,7 @@ To young for the time, when computing didn't suck, to old to be young (2002)
 #### Height
 Dwarf
 #### Beard
-~ 1 ft
+~ 0.8 ft
 #### Skin Color
 never seen sun
 #### Hair
