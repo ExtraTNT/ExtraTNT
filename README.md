@@ -5,6 +5,9 @@
 ## About me
 Developer from Switzerland, likes free software, likes DnD, likes nice LaTeX-Documents, does Fullstack stuff... is bad at designing stuff and does not know how to code without timetravel issues... -.- takes life to serious... and is a master at creating typos...  
 
+### Working at
+[SwissTXT](https://duckduckgo.com/?q=don't+click+suspicious+links)
+
 ### Likes
  - When stuff just works and requires almost no resources  
  - Simple styling  
@@ -38,6 +41,7 @@ Fruit juce with added water and sugar... like wtf, why?
 
 
 ## What i know
+ - not a complete list, because there is to much to add... but i guess this selection says about nothing, so i added exactly that...
  - not a lot :D
  - Cross = more than 2 lines...  
  - no Cross = used once or twice
@@ -142,3 +146,9 @@ Fruit juce with added water and sugar... like wtf, why?
 - Coding
 - Sport (Judo, Skiing, eSport)
 - Gaming
+
+
+
+---
+have you clicked the link?  
+stay save... -.-
