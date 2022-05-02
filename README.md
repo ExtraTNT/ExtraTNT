@@ -3,10 +3,10 @@
 > I'm a unicorn , Tux is my father! I <3 ⛾
 
 ## About me
-Developer from Switzerland, likes free software, likes DnD, likes nice LaTeX-Documents, does Fullstack stuff... is bad at designing stuff and does not know how to code without timetravel issues... -.- takes life to serious... 
+Developer from Switzerland, likes free software, likes DnD, likes nice LaTeX-Documents, does Fullstack stuff... is bad at designing stuff and does not know how to code without timetravel issues... -.- takes life to serious... and is a master at creating typos...  
 
 ### Likes
- - When stuff just works and requires almost none resources  
+ - When stuff just works and requires almost no resources  
  - Simple styling  
  - Small keyboards (Currently using 40%)  
  - When (young) people show interest in making the world a better place  
