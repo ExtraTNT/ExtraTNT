@@ -5,6 +5,16 @@
 ## About me
 Developer from Switzerland, likes free software, likes DnD, likes nice LaTeX-Documents, does Fullstack stuff... is bad at designing stuff and does not know how to code without timetravel issues... -.- takes life to serious... and is a master at creating typos...  
 
+### BIO
+#### Age
+To young for the time, when computing didn't suck, to old to be young (2002)  
+#### Height
+Dwarf
+#### Beard
+~ 1 ft
+#### Favorite Blue
+\#5294e2
+
 ### Working at
 [SwissTXT](https://duckduckgo.com/?q=don't+click+suspicious+links)
 
