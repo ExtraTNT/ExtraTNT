@@ -86,6 +86,7 @@ Fruit juce with added water and sugar... like wtf, why?
 - [x] .net Core
 - [x] SCRUM (it's a framework -.-)
 - [x] Tailwind css (i can read the documentation)
+- [ ] JavaFX (if you haven't tried it, good job... xD)
 
 ### DB
 - [x] mongoDB
