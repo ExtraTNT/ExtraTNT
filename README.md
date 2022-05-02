@@ -43,7 +43,7 @@ i3wm
 Whisky
 
 ### Hate
- - Macig stuff nobody can read with bad performance...  
+ - Magic stuff nobody can read with bad performance...  
  - Proprietary malware
 #### Editor
 MS Word
