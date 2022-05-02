@@ -78,7 +78,7 @@ Fruit juce with added water and sugar... like wtf, why?
 - [ ] English
 
 ### Frameworks
-- [ ] Angular
+- [ ] Angular (i started a project, that counts)
 - [x] React
 - [ ] Vue
 - [x] MSAL
@@ -104,6 +104,7 @@ Fruit juce with added water and sugar... like wtf, why?
 - [x] Firefox Debugger, because f... Chrome
 - [x] Script to set my wallpaper (most important tool)
 - [ ] curl
+- [ ] emacs (on todo list)
 
 ### OS
 - [x] GNU/Linux (mainly debiane)
