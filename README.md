@@ -109,7 +109,7 @@ Fruit juce with added water and sugar... like wtf, why?
 - [ ] emacs (on todo list)
 
 ### OS
-- [x] GNU/Linux (mainly debiane)
+- [x] GNU/Linux (mainly Debian)
 - [x] BSD
 - [ ] Windows
 
