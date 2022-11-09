@@ -16,9 +16,9 @@ To young for the time, when computing didn't suck, to old to be young (2002)
 #### Height
 Dwarf
 #### Beard
-~ 0.8 ft
+~ 0.9 ft
 #### Skin Color
-never seen sun
+never seen sun (or low in Fe)
 #### Hair
 classic metalhead
 
@@ -46,7 +46,7 @@ Whisky
  - Magic stuff nobody can read with bad performance...  
  - Proprietary malware
 #### Editor
-MS Word
+MS Word (Worst IDE)
 #### OS
 Windows
 #### Shell
@@ -70,10 +70,11 @@ Fruit juce with added water and sugar... like wtf, why?
 - [x] CSS
 - [x] JavaScript
 - [x] TypeScript
-- [x] C\#
+- [x] C\# (.NET)
 - [x] Java
 - [ ] Python
 - [ ] C / C++ (a few lines)
+- [ ] Go
 - [ ] gnu R (1 - 2 lines but it looks really nice...)
 - [x] German (if you don't hate me now, idk)
 - [ ] English
@@ -127,24 +128,26 @@ Fruit juce with added water and sugar... like wtf, why?
 
 ## Current Setup
 ### HW
- - Notebook from Work (EliteBook 840 G5) (i7 8550U, 16GB RAM)
+ - Notebook from Work (EliteBook 840 G5) (i7 8550U, 32GB RAM)
  - Private Notebook (Elitebook 2170p (cute notebook)) (i7 3687U, 16GB RAM)
+ - Private Notebook II (Acer TravelMate p6) (i7 1185G7, 32GB RAM)
  - Server (Custom, Ryzen 5 2600, 48GB RAM, old HDDs)
  - Workstation (Custom, Ryzen 9 3900x, 32GB RAM, a lot of storage)
+ - Phone (Pinephone pro) (6 Core Rockchip, 4GB RAM)
 
  ### Software
- - Debian gnu/linux 11
+ - Debian gnu/linux testing
  - nvim / vs code
  - Firefox
- - i3wm
+ - i3wm / sway
  - Rofi
  - Polybar
  - bash
  - st (fork from DistroTube)
- - Hack Font
+ - Hack Nerd Font
  - Arc Theme
  - Papirus Icons
- - compton
+ - compton / picom
  - Windows 10 for gaming and i hate it...
 
 ## Music
