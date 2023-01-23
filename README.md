@@ -132,7 +132,7 @@ Fruit juce with added water and sugar... like wtf, why?
  - Private Notebook (Elitebook 2170p (cute notebook)) (i7 3687U, 16GB RAM)
  - Private Notebook II (Acer TravelMate p6) (i7 1185G7, 32GB RAM)
  - Server (Custom, Ryzen 5 2600, 48GB RAM, old HDDs)
- - Workstation (Custom, Ryzen 9 3900x, 32GB RAM, a lot of storage)
+ - Workstation (Custom, Ryzen 9 3900x, 96GB RAM, a lot of storage, RX 5700XT)
  - Phone (Pinephone pro) (6 Core Rockchip, 4GB RAM)
 
  ### Software
