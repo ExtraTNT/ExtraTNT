@@ -128,7 +128,7 @@ Fruit juce with added water and sugar... like wtf, why?
 
 ## Current Setup
 ### HW
- - Notebook from Work (EliteBook 840 G5) (i7 8550U, 32GB RAM)
+ - Notebook from Work (Z Book Studio) (i9 13900H, 32GB RAM)
  - Private Notebook (Elitebook 2170p (cute notebook)) (i7 3687U, 16GB RAM)
  - Private Notebook II (Acer TravelMate p6) (i7 1185G7, 32GB RAM)
  - Server (Custom, Ryzen 5 2600, 48GB RAM, old HDDs)
