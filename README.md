@@ -174,7 +174,7 @@ Fruit juce with added water and sugar... like wtf, why?
 
  - Fluentscheduler (pullrequest still open, because the project is dead, if you have problems with tasks getting executed sometimes and shouldn't, use my fork)
  - Linux (my fix was not working and the problem was my firmware, so i just annoyed everyone in the mailing list for nothing... but i now know, that i should not trust anyone, if he says, that there is the latest firmware on a device)
-
+- Hbbtv Back and Frontend (Stuff from work)
 
 ---
 have you clicked the link?  
