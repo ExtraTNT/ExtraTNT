@@ -128,10 +128,10 @@ Fruit juce with added water and sugar... like wtf, why?
 
 ## Current Setup
 ### HW
- - Notebook from Work (Z Book Studio) (i9 13900H, 32GB RAM)
+ - Notebook from Work (Z Book Studio) (i9 13900H, 64GB RAM)
  - Private Notebook (Elitebook 2170p (cute notebook)) (i7 3687U, 16GB RAM)
  - Private Notebook II (Acer TravelMate p6) (i7 1185G7, 32GB RAM)
- - Server (Custom, Ryzen 5 2600, 48GB RAM, old HDDs)
+ - Server (Custom, Ryzen 7 5700X, 48GB RAM, 1tb nvme, 3050 8gb)
  - Workstation (Custom, Ryzen 9 3900x, 96GB RAM, a lot of storage, RX 5700XT)
  - Phone (Pinephone pro) (6 Core Rockchip, 4GB RAM)
 
@@ -167,7 +167,7 @@ Fruit juce with added water and sugar... like wtf, why?
 
 ## Free Time
 - Coding
-- Sport (Judo, Skiing, eSport)
+- Sport (Judo, Climbing, Skiing, eSport)
 - Gaming
 
 ## Contributed to
