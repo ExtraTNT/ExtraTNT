@@ -5,6 +5,9 @@
 ## About me
 Developer from Switzerland, likes free software, likes DnD, likes nice LaTeX-Documents, does Fullstack stuff... is bad at designing stuff and does not know how to code without timetravel issues... -.- takes life to serious... and is a master at creating typos...  
 
+## Uni
+fhnw -> if you dislike crazy people like me, you now know what school to avoid... if you like some fun while educating yourself, you now know which school to attend...
+
 ### Favorite Blue
 \#5294e2
 ### Favorite Car
@@ -131,8 +134,8 @@ Fruit juce with added water and sugar... like wtf, why?
  - Notebook from Work (Z Book Studio) (i9 13900H, 64GB RAM)
  - Private Notebook (Elitebook 2170p (cute notebook)) (i7 3687U, 16GB RAM)
  - Private Notebook II (Acer TravelMate p6) (i7 1185G7, 32GB RAM)
- - Server (Custom, Ryzen 7 5700X, 48GB RAM, 1tb nvme, 3050 8gb)
- - Workstation (Custom, Ryzen 9 3900x, 96GB RAM, a lot of storage, RX 5700XT)
+ - Server (Custom, Ryzen 7 5700X, 96GB RAM, 1tb nvme, 3050 8gb)
+ - Workstation (Custom, Ryzen 9 9900x, 96GB RAM, a lot of storage, RTX 5080)
  - Phone (Pinephone pro) (6 Core Rockchip, 4GB RAM)
 
  ### Software
